@@ -6,6 +6,6 @@ $(document).ready(function () {
       var yourluck = $(this).val();
         $('#fortune').append(yourluck + "<br>");
       });
-        $("#luck").hide();
+                    $("#luck").hide();
     });
 });
